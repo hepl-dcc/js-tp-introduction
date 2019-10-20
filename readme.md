@@ -12,10 +12,13 @@
 
 ## Liste des exercices JavaScript
 
-Comme vous l’avez sûrement remarqué, la page GitHub [hepl-dcc](https://github.com/hepl-dcc), qui regroupe les exercices du cours, _déborde_ littéralement d’exercices.
+La page GitHub [hepl-dcc](https://github.com/hepl-dcc), qui regroupe la matière et les exercices du cours de **Développement Côté Client** (*JavaScript*), contient un grand nombre de *repositories* (ou *repos*, des dossiers sur gitHub qui contiennent tous les fichiers nécessaires pour un projet).
 
-GitHub affiche les exercices dans l’ordre des modifications les plus récentes, ce qui est pratique en règle générale, mais un peu moins dans notre contexte, où vous suivez un programme de cours progressif.
-Vous trouverez ci-dessous la liste des exercices, **dans l’ordre du cours**.
+Vous trouverez généralement ici un *repo* par séance de cours voire parfois un *repo* par exercice pour la partie TD (Travaux Dirigés) du cours et un *repo* par exercice pour la partie TP (Travaux Pratiques) du cours.
+
+GitHub affiche les repos dans l’ordre des modifications les plus récentes, ce qui est pratique en règle générale, mais un peu moins dans notre contexte, où vous suivez un programme de cours progressif. 
+
+Vous trouverez ci-dessous la liste des exercices **dans l’ordre du cours**.
 
 ### Bases
 
