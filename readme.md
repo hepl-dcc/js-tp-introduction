@@ -27,3 +27,7 @@ Vous trouverez ci-dessous la liste des exercices du TP **dans l’ordre du cours
 ### Bases
 
 1. js-tp-*
+
+
+
+[1] : Les *repositories* ou *repos* sont des sortes de dossiers sur GitHub qui contiennent tous les fichiers nécessaires pour un projet.
